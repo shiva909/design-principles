@@ -29,5 +29,3 @@ For each principle, you will find:
 
 ---
 
-## Folder Structure
-
